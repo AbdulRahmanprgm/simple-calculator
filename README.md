@@ -1,3 +1,4 @@
+
 # SIMPLE-CALCULATOR
   # ABOUT:
         * created a basic calculator with the help of HTML,CSS.
@@ -7,6 +8,7 @@
         * It can be run on various operating systems on computers, smartphones, and tablets. 
         * create a calculator with the help of various developing tools.
         
-         
+  Output :
+    <img src="https://github.com/AbdulRahmanprgm/simple-calculator/blob/main/working%20img.png"> 
          
    
